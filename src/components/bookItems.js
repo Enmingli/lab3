@@ -3,6 +3,7 @@ import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 
 export class BookItems extends React.Component{
+    // use bootstrap css.
     render(){
         return(
             <div>
